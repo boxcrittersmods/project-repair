@@ -9,4 +9,4 @@ And potentially more in the future.
 
 ## Contributing
 Keep in mind ALL project licenses need to be checked before modifying or copying them, not doing so could be illegal.
-All modified projects should keep the original license and credit.
+All modified projects should keep the original license and credit, including any special permissions given to allow project repairs.
